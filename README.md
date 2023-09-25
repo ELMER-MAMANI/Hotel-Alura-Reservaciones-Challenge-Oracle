@@ -1,7 +1,5 @@
 # Hotel-Alura-Reservas-Challenge-Oracle-Next-Education !
 
- <img src="cms_files_10224_1659456419Badge_First_Alura_ChallengeOracleONE_2000x2000_V3.png" type="image/png" alt="insignia alura" widt=100 height=100> Hotel-Alura-Reservaciones-Alura-Challenge-Oracle-Next-Education !
-
 ## Desarrollo :nerd_face:
 
 Para el desarrollo de este proyecto se realizo el siguiente proceso, primero realice todos los trabajos pertinentes a la base de datos en base al Modelo entidad 
